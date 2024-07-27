@@ -49,6 +49,11 @@
 
 # COMMAND ----------
 
+# MAGIC %sql
+# MAGIC create table suresh
+
+# COMMAND ----------
+
 # MAGIC %fs ls 
 # MAGIC # creating directory
 # MAGIC # creating file
