@@ -54,6 +54,11 @@
 
 # COMMAND ----------
 
+# MAGIC %sql
+# MAGIC create table azure
+
+# COMMAND ----------
+
 # MAGIC %fs ls 
 # MAGIC # creating directory
 # MAGIC # creating file
